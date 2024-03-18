@@ -20,6 +20,21 @@ Let's build something amazing together! 😄
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaforwork&theme=tokyonight)
 
+## Technologies
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://img.shields.io/badge/-JavaScript-yellow" alt="JavaScript" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-TypeScript-blue" alt="TypeScript" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Node.js-green" alt="Node.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-React-blue" alt="React" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Next.js-white" alt="Next.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-MongoDB-green" alt="MongoDB" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-Docker-blue" alt="Docker" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/-AWS-orange" alt="AWS" style="margin-right: 10px;>
+   <img src="https://img.shields.io/badge/-Java-orange" alt="Java">
+</div>
+
+
 <!---
 aadityaforwork/aadityaforwork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
