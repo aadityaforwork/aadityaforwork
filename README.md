@@ -16,7 +16,7 @@ I'm a full-stack developer passionate about creating meaningful and innovative w
 
 Let's build something amazing together! 😄
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aadityaforwork_icons=true))
+![Github Stats](https://github-readme-stats.vercel.app/api?username=aadityaforwork&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaforwork&theme=tokyonight)
 
