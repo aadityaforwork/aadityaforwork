@@ -20,6 +20,7 @@ Let's build something amazing together! 😄
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaforwork&theme=tokyonight)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=aadityaforwork)
 ## Technologies
 
 <div style="display: flex; flex-direction: row;">
