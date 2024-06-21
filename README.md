@@ -5,7 +5,7 @@ I'm a full-stack developer passionate about creating meaningful and innovative w
 🌱 I’m currently learning new technologies to enhance my skill set and stay updated with industry trends.
 
 ## Portfolio
-🔗 [Check out my portfolio](https://aadityamalaniportfolio.netlify.app/) to see some of my projects and learn more about my work.
+🔗 [Check out my portfolio](https://aadityamalani.vercel.app/) to see some of my projects and learn more about my work.
 
 ## Get in Touch
 💬 Feel free to reach out to me if you have any questions, want to collaborate on a project, or just want to chat!
