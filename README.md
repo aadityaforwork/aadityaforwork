@@ -14,6 +14,9 @@ I'm a full-stack developer passionate about creating meaningful and innovative w
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aadityaforwork&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityaforwork&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Holopin Badges :
+[![An image of @aadityaforwork's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aadityaforwork)](https://holopin.io/@aadityaforwork)
+
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=aadityaforwork&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
