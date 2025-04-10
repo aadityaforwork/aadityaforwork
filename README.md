@@ -1,4 +1,4 @@
-![banner](https://github.com/AmanNegi/AmanNegi/blob/master/assets/github_banner.png)
+![banner](https://github.com/aadityaforwork/aadityaforwork/blob/main/github_banner.png)
 # Hi there, I'm Aaditya! 👋
 I'm a full-stack developer passionate about creating meaningful and innovative web applications. My skills include TypeScript, JavaScript, MERN (MongoDB, Express.js, React.js, Node.js), and Docker. I love building scalable and efficient solutions that solve real-world problems.
 
